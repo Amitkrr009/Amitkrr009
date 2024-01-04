@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amitkrr009
-- 👀 I’m interested in GIS and programming in python
+- 👀 I’m interested in GIS(LiDAR data processing, ArcGIS and ENVI) and programming in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on GIS and CODING
 - 📫 How to reach me amitkumar.rsm009@gmail.com
